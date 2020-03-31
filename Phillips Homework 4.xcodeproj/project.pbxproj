@@ -15,6 +15,8 @@
 		168A22532405EB9700AA8031 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 168A22512405EB9700AA8031 /* LaunchScreen.storyboard */; };
 		168A225E2405EB9700AA8031 /* Phillips_Homework_4Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168A225D2405EB9700AA8031 /* Phillips_Homework_4Tests.swift */; };
 		168A22692405EB9700AA8031 /* Phillips_Homework_4UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168A22682405EB9700AA8031 /* Phillips_Homework_4UITests.swift */; };
+		168A22792405FAB600AA8031 /* viewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 168A22782405FAB600AA8031 /* viewController2.swift */; };
+		168A227E2406020000AA8031 /* Seton-Hill-University.wav in Resources */ = {isa = PBXBuildFile; fileRef = 168A227D2406020000AA8031 /* Seton-Hill-University.wav */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +51,8 @@
 		168A22642405EB9700AA8031 /* Phillips Homework 4UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Phillips Homework 4UITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		168A22682405EB9700AA8031 /* Phillips_Homework_4UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Phillips_Homework_4UITests.swift; sourceTree = "<group>"; };
 		168A226A2405EB9700AA8031 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		168A22782405FAB600AA8031 /* viewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = viewController2.swift; path = ../viewController2.swift; sourceTree = "<group>"; };
+		168A227D2406020000AA8031 /* Seton-Hill-University.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = "Seton-Hill-University.wav"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +87,7 @@
 				168A225C2405EB9700AA8031 /* Phillips Homework 4Tests */,
 				168A22672405EB9700AA8031 /* Phillips Homework 4UITests */,
 				168A22442405EB9500AA8031 /* Products */,
+				168A227D2406020000AA8031 /* Seton-Hill-University.wav */,
 			);
 			sourceTree = "<group>";
 		};
@@ -103,6 +108,7 @@
 				168A22482405EB9500AA8031 /* SceneDelegate.swift */,
 				168A224A2405EB9500AA8031 /* ViewController.swift */,
 				168A224C2405EB9500AA8031 /* Main.storyboard */,
+				168A22782405FAB600AA8031 /* viewController2.swift */,
 				168A224F2405EB9700AA8031 /* Assets.xcassets */,
 				168A22512405EB9700AA8031 /* LaunchScreen.storyboard */,
 				168A22542405EB9700AA8031 /* Info.plist */,
@@ -235,6 +241,7 @@
 				168A22532405EB9700AA8031 /* LaunchScreen.storyboard in Resources */,
 				168A22502405EB9700AA8031 /* Assets.xcassets in Resources */,
 				168A224E2405EB9500AA8031 /* Main.storyboard in Resources */,
+				168A227E2406020000AA8031 /* Seton-Hill-University.wav in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -260,6 +267,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				168A224B2405EB9500AA8031 /* ViewController.swift in Sources */,
+				168A22792405FAB600AA8031 /* viewController2.swift in Sources */,
 				168A22472405EB9500AA8031 /* AppDelegate.swift in Sources */,
 				168A22492405EB9500AA8031 /* SceneDelegate.swift in Sources */,
 			);
